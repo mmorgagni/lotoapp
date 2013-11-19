@@ -1,0 +1,29 @@
+#courses_table{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.calendar_element_0{
+	font-size:24px;
+	background-color:#7de614;
+}
+.calendar_element_1{
+	font-size:24px;
+	background-color:#a0f64c;
+}
+.calendar_element_time{
+	padding:10px;
+	text-align:center;
+	border: solid 1px #000000;
+}
+.calendar_element_name{
+	padding:10px;
+	text-align:center;
+	border: solid 1px #000000;
+}
+.calendar_element_seats{
+	padding:10px;
+	text-align:center;
+	border: solid 1px #000000;
+}
