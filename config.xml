@@ -2,12 +2,12 @@
 <widget id="com.mmorgagni.lotofit_app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>LotoApp</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        An app for manage and make reservations on Lotofit courses.
     </description>
-    <author email="dev@callback.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="michele.morgagni@gmail.com" href="http://www.lotofit.it">
+        Michele Morgagni
     </author>
-    <content src="index.html" />
+    <content src="index.html#home" />
     <access origin="*" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
